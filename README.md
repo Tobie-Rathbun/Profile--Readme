@@ -1,8 +1,8 @@
-- 👋 Hey there, I’m Tobie @thispaghetti
-- 👀 I’m interested in design, electrical engineering, music, and physics
-- 🌱 I’m currently investing a lot of time in learning Python, and many of its' useful libraries
-- 💞️ I’m always looking for collaborators, Feel free to message me whenever
-- 📫 Reach out to me on instagram.com/thatstobie or by email: tsrathbun@gmail.com
+- 👋 Hello there, my name is Tobie Rathbun, and my github username is @thispaghetti
+- 👀 I’m interested in app & game development, electrical engineering, web development, and graphic design
+- 🌱 I’m currently investing time in learning more of Python, Godot, and Blender to create professional 3D projects
+- 💞️ I’m always looking for collaborators, and my inbox is open :)
+- 📫 Reach out to me by email: tsrathbun@gmail.com
 
 <!---
 thispaghetti is ✨ special ✨ 
